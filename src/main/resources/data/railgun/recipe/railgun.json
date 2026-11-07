@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NNR",
+    "DSR",
+    " N "
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:diamond_block" },
+    "R": { "item": "minecraft:redstone_block" },
+    "S": { "item": "minecraft:nether_star" }
+  },
+  "result": { "id": "railgun:railgun", "count": 1 }
+}
